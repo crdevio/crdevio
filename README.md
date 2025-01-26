@@ -16,6 +16,10 @@ I'm studying <em>Computer Sciences</em> at <a href="https://www.ens.psl.eu/">ENS
 
 <a href="https://crvr.fr/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=my website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="My website"/></a>
 
+### Outside projects
 
+<ul>
+  <li><a href="https://github.com/crdevio/ValheimMods/tree/main">BuildShare</a>: pioneer Valheim mods with more than 600,000 views. </li>
+</ul>
 
 </div>
