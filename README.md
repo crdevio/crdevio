@@ -14,8 +14,6 @@ I'm studying <em>Computer Sciences</em> at <a href="https://www.ens.psl.eu/">ENS
 </ul>
 
 
-<a href="https://crvr.fr/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=my website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="My website"/></a>
-
 ### Outside projects
 
 <ul>
